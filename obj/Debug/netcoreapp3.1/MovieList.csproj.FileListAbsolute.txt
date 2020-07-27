@@ -1,0 +1,13 @@
+C:\devbuild4\MovieList\obj\Debug\netcoreapp3.1\MovieList.csprojAssemblyReference.cache
+C:\devbuild4\MovieList\obj\Debug\netcoreapp3.1\MovieList.AssemblyInfoInputs.cache
+C:\devbuild4\MovieList\obj\Debug\netcoreapp3.1\MovieList.AssemblyInfo.cs
+C:\devbuild4\MovieList\obj\Debug\netcoreapp3.1\MovieList.csproj.CoreCompileInputs.cache
+C:\devbuild4\MovieList\bin\Debug\netcoreapp3.1\MovieList.exe
+C:\devbuild4\MovieList\bin\Debug\netcoreapp3.1\MovieList.deps.json
+C:\devbuild4\MovieList\bin\Debug\netcoreapp3.1\MovieList.runtimeconfig.json
+C:\devbuild4\MovieList\bin\Debug\netcoreapp3.1\MovieList.runtimeconfig.dev.json
+C:\devbuild4\MovieList\bin\Debug\netcoreapp3.1\MovieList.dll
+C:\devbuild4\MovieList\bin\Debug\netcoreapp3.1\MovieList.pdb
+C:\devbuild4\MovieList\obj\Debug\netcoreapp3.1\MovieList.dll
+C:\devbuild4\MovieList\obj\Debug\netcoreapp3.1\MovieList.pdb
+C:\devbuild4\MovieList\obj\Debug\netcoreapp3.1\MovieList.genruntimeconfig.cache
